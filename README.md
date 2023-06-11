@@ -6,12 +6,6 @@ Project that focuses on:
 -	People with hazy images can dehaze their photos and have it from the program
 -	Releasing our research results from this project.
 
-## To Use:
-```
-git clone https://github.com/samliumay/Fog_and_Haze_Remover.git
-cd Fog_and_Haze_Remover
-python main.py
-```
 
 ## Currenlty Integrated Algorithms:
 - https://github.com/hayatkhan8660-maker/Light-DehazeNet 
