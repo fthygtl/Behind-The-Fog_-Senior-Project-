@@ -5,11 +5,15 @@ Project that focuses on:
 -	Gave researchers a program that can be easily used for research
 -	People with hazy images can dehaze their photos and have it from the program
 -	Releasing our research results from this project.
-
+-	
+## User Manual
+- Go the web page of the project
+  https://fthygtl.github.io/new/#blog
 
 ## Currenlty Integrated Algorithms:
+- DCP 
 - https://github.com/hayatkhan8660-maker/Light-DehazeNet 
-  * https://ieeexplore.ieee.org/abstract/document/9562276
+  https://ieeexplore.ieee.org/abstract/document/9562276
 - DCP
 - [Will be continued] 
 
@@ -17,8 +21,8 @@ Project that focuses on:
 - Yücel ÇİMTAY [Profile](https://www.tedu.edu.tr/yucel-cimtay)
 
 ## Project Team
-- Umay Şamlı [Profile](https://github.com/samliumay)
 - Fatih Mehmet Yiğitel [Profile](https://github.com/fthygtl)
+- Umay Şamlı [Profile](https://github.com/samliumay)
 - Rümeysa ÖZ [Profile](https://github.com/rumeysaoz)
 - İhsan Melih Şişman [Profile](https://github.com/Melih5000?tab=repositories)
 
