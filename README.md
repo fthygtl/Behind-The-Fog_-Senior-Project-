@@ -1,17 +1,18 @@
-# Fog and Dehaze Remover
+# Behind the Fog
 
-Project that focuses on:
--	integrating all the Well known dehazing algorithms to the one program
--	Gave researchers a program that can be easily used for research
--	People with hazy images can dehaze their photos and have it from the program
--	Releasing our research results from this project.
--	
-## User Manual
+## Introduction
+- In our senior project we try to compare dehazing algoritms.
+- We use traditional methods and AI-Based Methods.
+- Traditional:  DCP
+- AI-based:  Dehazenet
+- You can find the papers of the algorithms below the "Currenlty Integrated Algorithms" part
+
+## To Get User Manual
 - Go the web page of the project
   https://fthygtl.github.io/new/#blog
 
 ## Currenlty Integrated Algorithms:
-- DCP 
+- Dehazenet (AI-Based)
 - https://github.com/hayatkhan8660-maker/Light-DehazeNet 
   https://ieeexplore.ieee.org/abstract/document/9562276
 - DCP
